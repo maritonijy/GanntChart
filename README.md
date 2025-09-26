@@ -8,4 +8,5 @@ It shows:
 - Milestones and deadlines  
 - Progress tracking for each phase  
 
-The Gantt chart helps the team stay organized, meet deadlines, and clearly visualize responsibilities and workflow.
+This Gantt chart helps the team stay organized, meet deadlines, and clearly visualize responsibilities and workflow.
+
