@@ -1,4 +1,4 @@
-﻿# GanntChart and Group Tasks
+﻿# Gannt Chart and Group Tasks Tracker
 
 This repository contains the Gantt chart and task breakdown for our group project.  
 
@@ -9,4 +9,5 @@ It shows:
 - Progress tracking for each phase  
 
 This Gantt chart helps the team stay organized, meet deadlines, and clearly visualize responsibilities and workflow.
+
 
